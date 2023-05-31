@@ -1,0 +1,2 @@
+-- Active: 1684762799193@@127.0.0.1@5432@multiapp
+CREATE DATABASE multiapp;
